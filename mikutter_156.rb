@@ -12,6 +12,6 @@ bible.instance_eval {
       'beat'; 'and'; pop; pop
     },
     "mhftkO".reverse.each_char.map {|_| _.next }.join
-  ).__send__(feel, ['hyde', 'is', 'God'][0].to_sym) { Service.primary.update(message: '至高のプラグイン') }
+  ).__send__(feel, ['hyde', 'is', 'God'][0].to_sym) { Service.primary.update(message: "ひどいプラグインが作成されました。それはいけない。すぐにコードをSHOT AT THE DEVILしろ。#{rand(999)}") }
 }
 'Everything goes';$;=nil
