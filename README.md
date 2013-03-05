@@ -1,4 +1,3 @@
 mikutter_156
 ============
-
-すぐに .git をSHOT AT THE DEVILしろ。
+ひどいプラグインが作成されました。それはいけない。すぐにコードをSHOT AT THE DEVILしろ。
